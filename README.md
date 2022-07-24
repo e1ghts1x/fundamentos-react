@@ -1,9 +1,9 @@
-#Fundamentos De React
+# Fundamentos De React
 ## Neste repositório, você encontrará um projeto relacionado aos fundamentos do ReactJS. Retirados das aulas do curso "React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!"
 
 <h4 align="center">Projeto incompleto</h4>
 
-###Fundamentos aprendidos
+### Fundamentos aprendidos
 - [x] Criação de projetos 
 - [x] Exibindo string na tela
 - [x] JSX

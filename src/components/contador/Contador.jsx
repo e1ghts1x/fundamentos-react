@@ -26,7 +26,7 @@ export default class Contador extends Component {
 
     reset = () => {
         this.setState({
-            numero: this.props.numeroInicial,
+            numero: 0,
         })
     }
 

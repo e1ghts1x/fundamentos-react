@@ -9,7 +9,7 @@
 - [x] JSX
 - [x] Componentes
 - [x] Componentes com propriedades
-- [x] Rendericação condicional
+- [x] Renderização condicional
 - [x] Comunicação Direta
 - [x] Comunicação Indireta
 - [x] Componente com estado

@@ -1,5 +1,5 @@
 # Fundamentos De React
-## Neste repositório, você encontrará um projeto relacionado aos fundamentos do ReactJS. Retirados das aulas do curso COD3R "React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!"
+## Neste repositório, você encontrará um projeto relacionado ao curso fundamentos do ReactJS. Retirados das aulas do curso COD3R "React + Redux: Fundamentos e 2 Apps do Absoluto ZERO!"
 
 <h4 align="center">✅ Estudo completo ✅</h4>
 
